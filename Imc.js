@@ -1,5 +1,5 @@
-let x = 1.90, y = 98;
+let Altura = 1.90, Peso = 98;
 
-let Resultado = y / x / x;
+let Resultado = Peso / Altura / Altura;
 
 console.log(Resultado);
