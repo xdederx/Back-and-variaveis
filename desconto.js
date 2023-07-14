@@ -1,5 +1,5 @@
 const ValorDoProduto = 110, MeuDinheiro = 50
 
-let Resultado = MeuDinheiro * 100 / 110;
+Resultado = MeuDinheiro * 100 / ValorDoProduto;
 
 console.log(Resultado);
